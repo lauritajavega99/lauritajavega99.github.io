@@ -1,7 +1,7 @@
 # Página Web Personal
 
 _Página web donde describo mis conocimientos, habilidades, formación e información sobre mí, también proporciono formas de contacto y adjunto mi Currículum._ <br>
-_💻Link a la web: [lauritajavega99.github.io](lauritajavega99.github.io)_
+_💻Link a la web: [https://lauritajavega99.github.io/](https://lauritajavega99.github.io/)_
 <p align="center">
 <img src="assets/img/portfolio/paginapersonal.jpg" width="100%">
 </p>
