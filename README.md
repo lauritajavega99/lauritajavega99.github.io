@@ -10,7 +10,7 @@ _💻Link a la web: [lauritajavega99.github.io](lauritajavega99.github.io)_
 
 _Página web creada por:_
 
-* **Laura Muñoz Jávega** 📢[Perfil GitHub](https://github.com/lauritajavega99)
+* **Laura Muñoz Jávega** 📢[Perfil GitHub](https://lauritajavega99.github.io/)
 
 ## Construida con 🛠️
 
