@@ -520,13 +520,16 @@ section {
 
 .section-title.conocimientos h2{
   font-size: 22px;
+  background-color: #e9e8e6;
 }
+
+
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
-  padding-bottom: 20px;
+  background-color: #e6dfd4;
   position: relative;
 }
 
@@ -536,7 +539,6 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #9a8067;
   bottom: 0;
   left: calc(50% - 25px);
 }
