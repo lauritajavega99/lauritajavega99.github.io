@@ -548,7 +548,7 @@ section {
 }
 
 i {
-  font-size: larger;
+  font-size: medium;
 }
 /*--------------------------------------------------------------
 # Cta
@@ -625,7 +625,7 @@ i {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #34b7a7;
+  color: #9a8067;
 }
 
 .about .content p:last-child {
