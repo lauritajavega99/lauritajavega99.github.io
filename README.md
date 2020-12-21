@@ -25,8 +25,8 @@ _Las diferentes herramientas utilizadas para la creación de la página son las 
 
 
 ## Posicionamiento web 📈
-
-* Punto 1
-* Punto 2
-* Punto 3
-* Punto 4
+He mejorado el <strong>posicionamiento SEO</strong> de mi página web haciendo uso de los conocimientos incluidos en la asignatura de <strong>Comercio Electrónico</strong>, algunos de ellos:<br>
+✅ Sitemap.xml:<br>
+✅ Robots.txt:<br>
+✅ Google Analytics:<br>
+✅ Google Search Console:<br>
