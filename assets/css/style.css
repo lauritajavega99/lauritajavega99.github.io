@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #34b7a7;
+  color: #9a8067;
 }
 
 a:hover {
-  color: #51cdbe;
+  color: #9a8067;
   text-decoration: none;
 }
 
@@ -1037,7 +1037,7 @@ i {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #d43076;
+  color: #9a8067;
 }
 
 .portfolio #portfolio-flters li:last-child {
