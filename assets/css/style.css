@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #34b7a7;
+  color: #9a8067;
 }
 
 a:hover {
-  color: #51cdbe;
+  color: #9a8067;
   text-decoration: none;
 }
 
@@ -520,13 +520,16 @@ section {
 
 .section-title.conocimientos h2{
   font-size: 22px;
+  background-color: #e9e8e6;
 }
+
+
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
-  padding-bottom: 20px;
+  background-color: #e6dfd4;
   position: relative;
 }
 
@@ -536,7 +539,6 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #9a8067;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -546,7 +548,7 @@ section {
 }
 
 i {
-  font-size: larger;
+  font-size: medium;
 }
 /*--------------------------------------------------------------
 # Cta
@@ -623,7 +625,7 @@ i {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #34b7a7;
+  color: #9a8067;
 }
 
 .about .content p:last-child {
@@ -1035,7 +1037,7 @@ i {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #d43076;
+  color: #9a8067;
 }
 
 .portfolio #portfolio-flters li:last-child {
