@@ -1242,13 +1242,22 @@ i {
   }
 }
 
-
 @media (min-width: 1280px) {
   .row.mt-5.contact {
     padding-left: 285px;
   }
   .phone{
     margin-left: 180px;
+  }
+
+}
+
+@media (min-width: 834px) {
+  .col-lg-4.contact {
+    margin-left: 25px;
+  }
+  .phone{
+    margin-bottom: 35px;
   }
 
 }
