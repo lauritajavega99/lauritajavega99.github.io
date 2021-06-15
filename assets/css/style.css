@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #34b7a7;
+  border: 6px solid #9a8067;
   border-top-color: #dcf5f2;
   border-radius: 50%;
   width: 60px;
@@ -1252,7 +1252,7 @@ i {
 
 }
 
-@media (min-width: 834px) {
+@media (min-width: 820px) {
   .col-lg-4.contact {
     margin-left: 25px;
   }
