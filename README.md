@@ -1,4 +1,4 @@
-# Página Web Personal
+# Página Web Personal 👩‍💻
 
 _Página web donde describo mis conocimientos, habilidades, formación e información sobre mí, también proporciono formas de contacto y adjunto mi Currículum._ <br>
 _💻Link a la web: [https://lauritajavega99.github.io/](https://lauritajavega99.github.io/)_
