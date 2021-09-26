@@ -1,9 +1,3 @@
-/**
-* Template Name: Kelly - v2.0.0
-* Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 !(function($) {
   "use strict";
 
@@ -123,14 +117,6 @@
     time: 1000
   });
 
-  // Testimonials carousel (uses the Owl Carousel library)
-  $(".testimonials-carousel").owlCarousel({
-    autoplay: true,
-    dots: true,
-    loop: true,
-    items: 1
-  });
-
   // Porfolio isotope and filter
   $(window).on('load', function() {
     var portfolioIsotope = $('.portfolio-container').isotope({
@@ -147,13 +133,17 @@
       aos_init();
     });
 
-    // Initiate venobox (lightbox feature used in portofilo)
-    $(document).ready(function() {
-      $('.venobox').venobox({
-        'share': false
-      });
-    });
+
+        /**
+   * Initiate portfolio lightbox 
+   */
+      const portfolioLightbox = GLightbox({
+        selector: '.portfolio-lightbox'
+        });
+
+
   });
+
 
   // Portfolio details carousel
   $(".portfolio-details-carousel").owlCarousel({
